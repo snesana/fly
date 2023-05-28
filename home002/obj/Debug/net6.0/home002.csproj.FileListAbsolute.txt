@@ -1,0 +1,15 @@
+C:\Users\джайн\Desktop\thehome\home01\home002\bin\Debug\net6.0\home002.exe
+C:\Users\джайн\Desktop\thehome\home01\home002\bin\Debug\net6.0\home002.deps.json
+C:\Users\джайн\Desktop\thehome\home01\home002\bin\Debug\net6.0\home002.runtimeconfig.json
+C:\Users\джайн\Desktop\thehome\home01\home002\bin\Debug\net6.0\home002.dll
+C:\Users\джайн\Desktop\thehome\home01\home002\bin\Debug\net6.0\home002.pdb
+C:\Users\джайн\Desktop\thehome\home01\home002\obj\Debug\net6.0\home002.csproj.AssemblyReference.cache
+C:\Users\джайн\Desktop\thehome\home01\home002\obj\Debug\net6.0\home002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\джайн\Desktop\thehome\home01\home002\obj\Debug\net6.0\home002.AssemblyInfoInputs.cache
+C:\Users\джайн\Desktop\thehome\home01\home002\obj\Debug\net6.0\home002.AssemblyInfo.cs
+C:\Users\джайн\Desktop\thehome\home01\home002\obj\Debug\net6.0\home002.csproj.CoreCompileInputs.cache
+C:\Users\джайн\Desktop\thehome\home01\home002\obj\Debug\net6.0\home002.dll
+C:\Users\джайн\Desktop\thehome\home01\home002\obj\Debug\net6.0\refint\home002.dll
+C:\Users\джайн\Desktop\thehome\home01\home002\obj\Debug\net6.0\home002.pdb
+C:\Users\джайн\Desktop\thehome\home01\home002\obj\Debug\net6.0\home002.genruntimeconfig.cache
+C:\Users\джайн\Desktop\thehome\home01\home002\obj\Debug\net6.0\ref\home002.dll
